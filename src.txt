@@ -1,2 +1,8 @@
 this is a src.txt file.
+<<<<<<< HEAD
+this is yaswanth
+=======
 hello vivek
+>>>>>>> f9d4e30ed5d5760ac7c338876a80e18a7e8fcd57
+
+madda 
